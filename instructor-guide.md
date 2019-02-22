@@ -178,7 +178,7 @@ The schedules for each (linked below) are provided as examples only. Feel free t
 
 ## Appendix: Materials and Resources
 - All lesson materials, homeworks and projects outlined in the Suggested Pacing Guide are in this repo.
-- All Slides are [here](http://s3.amazonaws.com/react-ga/index.html).
+- All Slides are [here](https://s3.amazonaws.com/python-ga/v1.4.1/index.html).
 - Standard GA-produced pre-work materials can be accessed on [myGA](https://accounts.generalassemb.ly/users/sign_in).
 - Practice quizzes (most units have one) can also be accessed on  [myGA](https://accounts.generalassemb.ly/users/sign_in).
 - Labs (in which students fork a repo with existing code and add features to it) are in the Additional Resources folder in this repo.
