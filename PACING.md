@@ -532,23 +532,8 @@ The schedules below are  provided as examples only. Feel free to create the righ
       <td class="s2" dir="ltr" rowspan="3">DAY 5 - AFTERNOON</td>
       <td class="s2" dir="ltr" rowspan="3">Final Project Workshop<br></td>
       <td class="s2" rowspan="3"></td>
-      <td class="s2" dir="ltr" rowspan="2"><a target="\_blank" href="https://git.generalassemb.ly/react-development/react-development-course-materials/blob/master/06-Applied-Practice/05-idea-board-code-along.md">Idea Board Code-Along (Continued)</a> or Final Project Workshop Time</td>
-      <td class="s2" dir="ltr" rowspan="3">Work on Final Project</td>
-    </tr>
-    <tr style='height:20px;'>
-    </tr>
-    <tr style='height:20px;'>
-      <td class="s2" dir="ltr">Final Project Workshop Time</td>
-    </tr>
-    <tr style='height:20px;'>
-      <td class="s2" dir="ltr" rowspan="2">DAY 6 - MORNING<br></td>
-      <td class="s2" dir="ltr" rowspan="2">Final Project Presentations</td>
-      <td class="s2" rowspan="2"></td>
-      <td class="s5" dir="ltr"><a target="\_blank" href="https://git.generalassemb.ly/react-development/react-development-course-materials/blob/master/06-Applied-Practice/07-project-presentations.md">Final Project Presentations</a></td>
-      <td class="s2" rowspan="2"></td>
-    </tr>
-    <tr style='height:20px;'>
-      <td class="s2" dir="ltr">Congratulations and Next Steps - Discussion</td>
+      <td class="s2" dir="ltr" rowspan="2"><a target="\_blank" href="https://git.generalassemb.ly/react-development/react-development-course-materials/blob/master/06-Applied-Practice/05-idea-board-code-along.md">Idea Board Code-Along (Continued)</a> or Final Project Presentations</td>
+      <td class="s2" dir="ltr" rowspan="3">Congratulations and Next Steps - Discussion</td>
     </tr>
   </tbody>
 </table>
